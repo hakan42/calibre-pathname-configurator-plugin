@@ -1,0 +1,2 @@
+calibre-pathname-configurator-plugin
+====================================
